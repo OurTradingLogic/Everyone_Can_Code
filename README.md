@@ -1,2 +1,3 @@
 # Everyone_Can_Code
-Everyone Can Code
+Please refer wikipage
+https://github.com/OurTradingLogic/Everyone_Can_Code/wiki/Coding-in-Python
